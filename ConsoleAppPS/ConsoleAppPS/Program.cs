@@ -5,6 +5,7 @@ Console.WriteLine("Hello, World!");
 
 
 ExpatUser user = new ExpatUser();
+
 BankAccount bankAccount = new BankAccount();
 Registration registration = new Registration();
 
